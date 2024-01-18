@@ -33,8 +33,9 @@
   alembic upgrade head
 ```
 ## Running the FastAPI Application
-    ```bash
-    uvicorn main:app --reload```
+   ```bash
+    uvicorn main:app --reload
+```
     
-Visit http://127.0.0.1:8000/docs in your browser to access the Swagger documentation.
+Visit  http://127.0.0.1:8000/docs  in your browser to access the Swagger documentation.
 
